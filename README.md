@@ -1,7 +1,7 @@
 ## Oii! Eu sou o Luiz!
 
 - 🔭 Front-End
-- 🌱 Estudando Vue.Js
+- 🌱 Estudando React e Next.JS!
 - 📫 Fale comigo via: luizeduardo.frare@outlook.com
 <div style="display: inline_block"><br
   <a href="https:/https://github.com/LuizFrare">
